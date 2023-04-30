@@ -49,7 +49,7 @@ To use this repo on your machine requires some simple steps
 
 - Change directory to the repo folder:
 
-        cd phase-2-wk2-code-challenge-bot-battlr       
+        cd phase-2-Bot-Battlr     
 
 - Install javascript dependencies
 
